@@ -1,7 +1,7 @@
 export const AppRoute = {
   MAIN: "/",
   ARCHIVE: "/archive",
-  ADD: "/event/:id?",
-  EDIT: "/event",
-  NOTFOUND: "/:id",
+  ADD: "/event/",
+  EVENT: "/event/:id?",
+  NOTFOUND: "404",
 };

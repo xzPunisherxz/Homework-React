@@ -87,7 +87,7 @@ export const events = [
       "If you are going to use a passage of Lorem Ipsum, you need to be sure there isnt anything embarrassing hidden in the middle of text.",
     date: "2022-04-19T13:03:25.753Z",
     favorite: false,
-    archive: true,
+    archive: false,
   },
   {
     _id: "8789fdsfds6768908fd",
@@ -107,5 +107,5 @@ export const events = [
     date: "2022-04-19T13:03:25.753Z",
     favorite: false,
     archive: true,
-  },
+  }
 ];
